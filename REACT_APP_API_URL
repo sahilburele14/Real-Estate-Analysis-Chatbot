@@ -1,0 +1,5 @@
+## Available Scripts
+
+- `npm start` - Run development server
+- `npm build` - Create production build
+- `npm test` - Run tests
